@@ -1,6 +1,6 @@
 # Statistics-from-Rigrous-to-Practical
 
-Check the note book called `Statistics from Rigorous to Practical.ipynb` above.  
+Check the jupyter notebook called `Statistics from Rigorous to Practical.ipynb` above.  
 There is a pdf and an html version.
 
 ### Notes
