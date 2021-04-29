@@ -13,6 +13,6 @@ In mathematics definitions are usually written clearly, this does not mean how t
 
 ### Status
 * Quick of some notions from measure theory tools.
-* Hypothesis Testing Notions and Examples. **Working on it**
+* Hypothesis Testing Notions and Examples. (**Working on it**)
 
 ### Version: 1.2
